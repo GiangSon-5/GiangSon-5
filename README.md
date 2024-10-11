@@ -11,3 +11,11 @@
 ### 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nguyenquyetgiangson/)
+
+
+[![Gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDN4anNkMTFvc25tNTUyZDNnZXZ6Ynkzam4zYXk1dXBiaWM1M2VxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v2EGwKEh7RnZMg0bKl/giphy.webp)
+
+[![Gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDk4OWMxZWYzamRiN2cwODBocXR1bHowbDQ1d2RwY2U4a29paTVtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp)
+
+
+

@@ -1,8 +1,8 @@
 ## Hi there 👋 Welcome to my GitHub profile!
 
-<img align="left" src="https://github.com/GiangSon-5/GiangSon-5/blob/main/assets/giphy.gif" alt="Data Science Fun" width="250" />
+<img align="right" src="https://github.com/GiangSon-5/GiangSon-5/blob/main/assets/giphy.gif" alt="Data Science Fun" width="150" style="margin-right: 20px; margin-bottom: 20px;" />
 
-<img align="right" src="https://github.com/GiangSon-5/GiangSon-5/blob/main/assets/data%20scientist.gif" alt="Python Fun" width="250" />
+<img align="left" src="https://github.com/GiangSon-5/GiangSon-5/blob/main/assets/data%20scientist.gif" alt="Python Fun" width="250" style="margin-left: 20px; margin-bottom: 20px;" />
 
 ### 🙋 About Me
 I’m a data scientist passionate about uncovering insights through data, developing machine learning models, and building visualizations to tell compelling stories. Skilled in Python, machine learning libraries, and data analytics tools.

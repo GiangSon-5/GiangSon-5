@@ -1,8 +1,9 @@
 <h1 align="center">👋 Welcome to My GitHub!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1F75FE&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Giang+Son;Data+Scientist+%7C+AI+Engineer+%7C+AI+Researcher;Computer+Vision+%7C+NLP+%7C+Recommendation+Systems;Lifelong+Learner+%26+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1F75FE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Giang+Son;Data+Scientist+%7C+AI+Engineer+%7C+AI+Researcher" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://github.com/GiangSon-5/GiangSon-5/blob/main/assets/data%20scientist.gif" width="280" alt="Data GIF"/>

@@ -49,7 +49,7 @@ I'm a third-year university student with a strong passion for **Data Science**, 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiangSon-5&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GiangSon-5&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiangSon-5&theme=radical" width="45%"/>
 </p>
 

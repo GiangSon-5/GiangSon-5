@@ -90,6 +90,9 @@ I'm a third-year university student with a strong passion for **Data Science**, 
 
 
 ---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiangSon-5&layout=compact&theme=radical" />
+
+---
 
 ### 🔗 Connect with Me
 

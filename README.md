@@ -1,13 +1,15 @@
-<h1 align="center">👋 Welcome to My GitHub!</h1>
+<h1 align="center">
+  <img src="https://github.com/GiangSon-5/GiangSon-5/blob/main/assets/giphy.gif" width="40" /> Welcome to My GitHub!
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1F75FE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Giang+Son;Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1F75FE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Giang+Son;Early-Career+in+Data+Science+%26+AI;Working+with+Data+%26+Machine+Learning;Diving+into+Deep+Learning+%26+AI+Projects;Learning+and+Growing+with+Code" alt="Typing SVG" />
 </p>
 
-
+<!-- Header with AI.gif and Data Scientist.gif side by side -->
 <p align="center">
-  <img src="https://github.com/GiangSon-5/GiangSon-5/blob/main/assets/data%20scientist.gif" width="280" alt="Data GIF"/>
-  <img src="https://github.com/GiangSon-5/GiangSon-5/blob/main/assets/giphy.gif" width="180" alt="Coding Fun"/>
+  <img src="https://github.com/GiangSon-5/GiangSon-5/blob/main/assets/AI.gif" width="250" alt="AI GIF"/>
+  <img src="https://github.com/GiangSon-5/GiangSon-5/blob/main/assets/data%20scientist.gif" width="250" alt="Data Scientist GIF"/>
 </p>
 
 ---
@@ -23,7 +25,6 @@ I'm a third-year university student with a strong passion for **Data Science**, 
   • **Prompt Engineering** and **Fine-tuning LLMs** for domain-specific applications  
   • **Deployment with Streamlit, FastAPI** and integrating AI into real-world systems  
 
-
 - 👨‍🎓 Student at: **University of Transport and Communications, Ho Chi Minh City**  
 - 💡 Motto: *"Code with purpose. Learn with passion."*
 
@@ -31,18 +32,35 @@ I'm a third-year university student with a strong passion for **Data Science**, 
 
 ### 🛠️ Languages & Tools
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center"><b>🔹 Core</b></td>
+<td align="center"><b>🔹 Machine Learning</b></td>
+<td align="center"><b>🔹 Data</b></td>
+<td align="center"><b>🔹 Deployment & AI</b></td>
+</tr>
+<tr>
+<td align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
+</td>
+</tr>
+</table>
+
 
 ---
 

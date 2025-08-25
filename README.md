@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1F75FE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Giang+Son;Early-Career+in+Data+Science+%26+AI;Working+with+Data+%26+Machine+Learning;Diving+into+Deep+Learning+%26+AI+Projects;Learning+and+Growing+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Giang+Son;Early-Career+in+Data+Science+%26+AI;Working+with+Data+%26+Machine+Learning;Diving+into+Deep+Learning+%26+AI+Projects;Learning+and+Growing+with+Code" alt="Typing SVG" />
 </p>
 
 <!-- Header with AI.gif and Data Scientist.gif side by side -->
@@ -36,13 +36,14 @@ I'm a third-year university student with a strong passion for **Data Science**, 
 <table align="center" style="border-collapse: collapse; border: 2px solid #ddd; border-radius: 12px; overflow: hidden;">
 
   <tr style="background-color: #f5f5f5;">
-    <th align="center" style="padding: 12px;">🔹 <b>Languages</b></th>
-    <th align="center" style="padding: 12px;">🔹 <b>Tools</b></th>
-    <th align="center" style="padding: 12px;">🔹 <b>Deploy</b></th>
-    <th align="center" style="padding: 12px;">🔹 <b>Data Science</b></th>
-    <th align="center" style="padding: 12px;">🔹 <b>NLP & LLMs</b></th>
-    <th align="center" style="padding: 12px;">🔹 <b>Computer Vision</b></th>
+    <th align="center" style="padding: 12px;">📝 <b>Languages</b></th>
+    <th align="center" style="padding: 12px;">🛠️ <b>Tools</b></th>
+    <th align="center" style="padding: 12px;">🚀 <b>Deploy</b></th>
+    <th align="center" style="padding: 12px;">📊 <b>Data Science</b></th>
+    <th align="center" style="padding: 12px;">💬 <b>NLP & LLMs</b></th>
+    <th align="center" style="padding: 12px;">👁️ <b>Computer Vision</b></th>
   </tr>
+
 
   <tr>
     <!-- Languages -->
@@ -94,15 +95,15 @@ I'm a third-year university student with a strong passion for **Data Science**, 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GiangSon-5&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="GiangSon-5's GitHub Stats"/>
   &nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiangSon-5&layout=compact&theme=radical" alt="GiangSon-5's Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiangSon-5&layout=compact&theme=radical" alt="GiangSon-5's Top Languages"/><br>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GiangSon-5&theme=radical&row=1&column=7" alt="GiangSon-5's Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=GiangSon-5&theme=radical&row=1&column=7" alt="GiangSon-5's Trophies"/><br>
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiangSon-5&theme=tokyo-night&hide_border=true" alt="GiangSon-5's GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiangSon-5&theme=tokyo-night&hide_border=true" alt="GiangSon-5's GitHub Activity Graph"/><br>
 </p>
 
 ---

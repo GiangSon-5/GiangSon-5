@@ -39,6 +39,7 @@ I'm a third-year university student with a strong passion for **Data Science**, 
     <th align="center" style="padding: 12px;">📝 <b>Languages</b></th>
     <th align="center" style="padding: 12px;">🛠️ <b>Tools</b></th>
     <th align="center" style="padding: 12px;">🚀 <b>Deploy</b></th>
+    <th align="center" style="padding: 12px;">🧹 <b>EDA & Data Processing</b></th>
     <th align="center" style="padding: 12px;">📊 <b>Data Science</b></th>
     <th align="center" style="padding: 12px;">💬 <b>NLP & LLMs</b></th>
     <th align="center" style="padding: 12px;">👁️ <b>Computer Vision</b></th>
@@ -64,6 +65,14 @@ I'm a third-year university student with a strong passion for **Data Science**, 
     <td align="center" style="padding: 16px;">
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" style="margin: 8px 0;"/><br>
       <img src="https://img.shields.io/badge/Gradio-3C3C3C?style=for-the-badge&logo=python&logoColor=white" style="margin: 8px 0;"/><br>
+    </td>
+    <!-- EDA & Data Processing -->
+    <td align="center" style="padding: 16px;">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" style="margin: 8px 0;"/><br>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" style="margin: 8px 0;"/><br>
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" style="margin: 8px 0;"/><br>
+      <img src="https://img.shields.io/badge/Statsmodels-323232?style=for-the-badge&logoColor=white" style="margin: 8px 0;"/><br>
+      <img src="https://img.shields.io/badge/Dataprep-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white" style="margin: 8px 0;"/><br>
     </td>
     <!-- Data Science -->
     <td align="center" style="padding: 16px;">

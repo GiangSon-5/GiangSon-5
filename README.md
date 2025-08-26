@@ -106,6 +106,20 @@ I'm a third-year university student with a strong passion for **Data Science**, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiangSon-5&theme=tokyo-night&hide_border=true" alt="GiangSon-5's GitHub Activity Graph"/><br>
 </p>
 
+<!-- 🐍 Snake Contribution Graphs -->
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GiangSon-5/GiangSon-5/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/GiangSon-5/GiangSon-5/blob/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://github.com/GiangSon-5/GiangSon-5/blob/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
+
+
+
 ---
 
 ### 📬 Get In Touch

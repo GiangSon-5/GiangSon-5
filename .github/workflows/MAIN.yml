@@ -37,6 +37,8 @@ jobs:
         github_user_name: ${{ github.repository_owner }}
         outputs: |
           dist/github-snake.svg
+        color_snake: '#39ff14'       # màu rắn (xanh neon)
+        color_dots: '#0d1117,#161b22' # màu nền (dark GitHub)
 
     - name: Push Snake to output branch
       uses: crazy-max/ghaction-github-pages@v2.1.3

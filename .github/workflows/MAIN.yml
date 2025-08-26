@@ -32,13 +32,13 @@ jobs:
         echo "channel=$(echo $CHANNEL)" >> $GITHUB_OUTPUT
 
     - name: Generate Snake SVG 🐍
-      uses: Platane/snk@v3
+      uses: Platane/snk/svg-only@v3
       with:
         github_user_name: ${{ github.repository_owner }}
-        gif_out_path: dist/github-snake.gif
-        svg_out_path: dist/github-snake.svg
-        color_snake: '#39ff14'
-        color_dots: '#0d1117,#161b22'
+        outputs: |
+          dist/github-snake.svg
+        color_snake: '#39ff14'       
+        color_dots: '#0d1117,#161b22,#21262d,#30363d' 
 
 
     - name: Push Snake to output branch

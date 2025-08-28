@@ -114,7 +114,7 @@ I'm a third-year university student with a strong passion for **Data Science**, 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GiangSon-5&theme=radical&row=1&column=7" alt="GiangSon-5's Trophies"/><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GiangSon-5&theme=aura&hide_border=false" alt="GiangSon-5's GitHub Streak Stats"/><br>
 </p>
 
 <p align="center"> 
@@ -131,9 +131,6 @@ I'm a third-year university student with a strong passion for **Data Science**, 
     <img alt="GitHub Snake" src="https://github.com/GiangSon-5/GiangSon-5/blob/output/github-snake.svg" width="100%" />
   </picture>
 </p>
-
-
-
 
 ---
 

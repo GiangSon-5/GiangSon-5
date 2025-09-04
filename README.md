@@ -5,12 +5,12 @@
 
 <!-- Welcome Title -->
 <h1 align="center">
-  <img src="https://github.com/GiangSon-5/GiangSon-5/blob/main/assets/giphy.gif" width="40" /> Welcome to My GitHub!
+  <img src="https://github.com/GiangSon-5/GiangSon-5/blob/main/assets/giphy.gif" width="50" /> Welcome to My GitHub!
 </h1>
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Giang+Son;Early-Career+in+Data+Science+%26+AI;Working+with+Data+%26+Machine+Learning;Diving+into+Deep+Learning+%26+AI+Projects;Learning+and+Growing+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Giang+Son;Early-Career+in+Data+Science+%26+AI;Working+with+Data+%26+Machine+Learning;Diving+into+Deep+Learning+%26+AI+Projects;Learning+and+Growing+with+Code" alt="Typing SVG" />
 </p>
 
 

@@ -19,6 +19,8 @@
 
 ---
 
+<br><br>
+
 <table border="0">
 <tr>
 <td width="70%" valign="top">
@@ -47,6 +49,7 @@ I'm a third-year university student with a strong passion for **Data Science**, 
 </tr>
 </table>
 
+<br>
 
 ---
 

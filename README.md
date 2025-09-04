@@ -1,20 +1,25 @@
+<!-- Banner / Wallpaper -->
+<p align="center">
+  <img src="https://github.com/GiangSon-5/GiangSon-5/blob/main/assets/cat-wallpaper.gif" width="100%" alt="Cat Wallpaper" />
+</p>
+
+<!-- Welcome Title -->
 <h1 align="center">
   <img src="https://github.com/GiangSon-5/GiangSon-5/blob/main/assets/giphy.gif" width="40" /> Welcome to My GitHub!
 </h1>
 
+<!-- Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Giang+Son;Early-Career+in+Data+Science+%26+AI;Working+with+Data+%26+Machine+Learning;Diving+into+Deep+Learning+%26+AI+Projects;Learning+and+Growing+with+Code" alt="Typing SVG" />
 </p>
 
-<!-- Header with AI.gif and Data Scientist.gif side by side -->
-<p align="center">
-  <img src="https://github.com/GiangSon-5/GiangSon-5/blob/main/assets/AI.gif" width="250" alt="AI GIF"/>
-  <img src="https://github.com/GiangSon-5/GiangSon-5/blob/main/assets/data%20scientist.gif" width="250" alt="Data Scientist GIF"/>
-</p>
 
 ---
 
-### 🙋‍♂️ About Me
+<table border="0">
+<tr>
+<td width="70%" valign="top">
+<h3 align="center">🙋‍♂️ About Me</h3>
 
 I'm a third-year university student with a strong passion for **Data Science**, **Artificial Intelligence**, and especially **Computer Vision & Natural Language Processing (NLP)**. My goal is to leverage data to build intelligent systems that solve real-world problems.
 
@@ -28,6 +33,17 @@ I'm a third-year university student with a strong passion for **Data Science**, 
     - Student at **University of Transport and Communications, Ho Chi Minh City**.
 
 - 💡 **Motto:** *"Code with purpose. Learn with passion."*
+</td>
+
+<td width="30%" valign="middle" align="center" style="vertical-align: middle;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+    <img src="https://github.com/GiangSon-5/GiangSon-5/blob/main/assets/AI.gif" width="200" alt="AI GIF" style="margin: 5px 0;"/>
+    <img src="https://github.com/GiangSon-5/GiangSon-5/blob/main/assets/data%20scientist.gif" width="200" alt="Data Scientist GIF" style="margin: 5px 0;"/>
+</div>
+</td>
+</tr>
+</table>
+
 
 ---
 

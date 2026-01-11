@@ -135,9 +135,8 @@ I'm a third-year university student with a strong passion for **Data Science**, 
        alt="GiangSon-5's GitHub Streak Stats" />
   &nbsp;&nbsp;
   <!-- Top Languages -->
-  <img src="https://github-readme-stats-beta-self-58.vercel.app/api/top-langs/?username=GiangSon-5&layout=compact&theme=radical" 
+  <img src="https://github-readme-stats-beta-self-58.vercel.app/api/top-langs/?username=GiangSon-5&layout=compact&theme=radical&count_private=true" 
        alt="GiangSon-5's Top Languages" />
-
 </p>
 
 <br><br>

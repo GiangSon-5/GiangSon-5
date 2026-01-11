@@ -130,19 +130,14 @@ I'm a third-year university student with a strong passion for **Data Science**, 
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-eta-orpin-70.vercel.app/api?username=GiangSon-5&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" 
-       alt="GiangSon-5's GitHub Stats" />
-</p>
-
-<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats-umber-six.vercel.app/?user=GiangSon-5&theme=aura&hide_border=false" 
+       alt="GiangSon-5's GitHub Streak Stats" />
+  &nbsp;&nbsp;
   <!-- Top Languages -->
-  <img src="https://github-readme-stats-eta-orpin-70.vercel.app/api/top-langs/?username=GiangSon-5&layout=compact&theme=radical" 
+  <img src="https://github-readme-stats-lyart-six-37.vercel.app/api/top-langs/?username=GiangSon-5&layout=compact&theme=radical" 
        alt="GiangSon-5's Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-umber-six.vercel.app/?user=GiangSon-5&theme=aura&hide_border=false" alt="GiangSon-5's GitHub Streak Stats"/><br>
 </p>
 
 <br><br>

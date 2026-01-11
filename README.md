@@ -131,7 +131,7 @@ I'm a third-year university student with a strong passion for **Data Science**, 
 
 <p align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats-umber-six.vercel.app/?user=GiangSon-5&theme=aura&hide_border=false" 
+  <img src="https://github-readme-streak-stats-three-tan.vercel.app/?user=GiangSon-5&theme=aura&hide_border=false" 
        alt="GiangSon-5's GitHub Streak Stats" />
   &nbsp;&nbsp;
   <!-- Top Languages -->

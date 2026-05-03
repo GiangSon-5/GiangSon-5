@@ -91,9 +91,9 @@ I'm a **final-year** university student with a strong passion for **Data Science
 
 <p align="center">
   <a href="https://github.com/GiangSon-5/intelligent-sports-news-assistant">
-    <img src="https://raw.githubusercontent.com/GiangSon-5/GiangSon-5/main/assets/intelligent-sport-assistant.svg" width="49%" alt="Intelligent Sports News Assistant" />
+    <img src="https://raw.githubusercontent.com/GiangSon-5/GiangSon-5/main/assets/intelligent-sports-assistant.svg" width="49%" alt="Intelligent Sports News Assistant" />
   </a>
   <a href="https://github.com/GiangSon-5/mcp-misa-payroll-agent">
-    <img src="https://raw.githubusercontent.com/GiangSon-5/GiangSon-5/main/assets/mcp-misa-payroll-agent-full.svg" width="49%" alt="MCP MISA Payroll Agent" />
+    <img src="https://raw.githubusercontent.com/GiangSon-5/GiangSon-5/main/assets/mcp-misa-payroll-agent.svg" width="49%" alt="MCP MISA Payroll Agent" />
   </a>
 </p>

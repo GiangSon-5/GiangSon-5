@@ -1,0 +1,82 @@
+<svg width="480" height="295" viewBox="0 0 480 295" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#161b22;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a371f7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d2a8ff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="title" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#d2a8ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2c5ff;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- 1. Background rect, rx=14 -->
+  <rect width="480" height="295" rx="14" fill="url(#bg)"/>
+  <!-- 2. Top accent bar: height=3, rx=2, fill=accent gradient -->
+  <rect width="480" height="3" rx="2" fill="url(#accent)"/>
+  <!-- 3. Outer border: stroke=#30363d, stroke-width=1 -->
+  <rect width="480" height="295" rx="14" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <!-- 4. HEADER -->
+  <text x="20" y="42" font-size="16" font-family="monospace" fill="#8b949e">🤖</text>
+  <text x="44" y="42" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="700" fill="url(#title)" filter="url(#glow)">mcp-misa-payroll-agent</text>
+  
+  <!-- 5. Horizontal divider line #21262d -->
+  <line x1="20" y1="54" x2="460" y2="54" stroke="#21262d" stroke-width="1"/>
+
+  <!-- 6. DESCRIPTION -->
+  <text x="20" y="76" font-family="'Segoe UI', sans-serif" font-size="12" fill="#8b949e">Agentic Enterprise Portal automating MISA Accounting and HR Payroll.</text>
+  <text x="20" y="94" font-family="'Segoe UI', sans-serif" font-size="12" fill="#8b949e">Multi-Agent system using LangGraph Pipeline and MCP for deterministic</text>
+  <text x="20" y="112" font-family="'Segoe UI', sans-serif" font-size="12" fill="#8b949e">data ingestion, rule processing, and AI-driven complex reasoning.</text>
+  
+  <!-- 7. Horizontal divider line #21262d -->
+  <line x1="20" y1="124" x2="460" y2="124" stroke="#21262d" stroke-width="1"/>
+
+  <!-- 8. TECH STACK PILLS -->
+  <g>
+    <rect x="20" y="136" width="60" height="20" rx="10" fill="#1a101a" stroke="#d2a8ff" />
+    <text x="50" y="150" font-family="monospace" font-size="11" fill="#d2a8ff" text-anchor="middle">AI Agent</text>
+    <rect x="88" y="136" width="65" height="20" rx="10" fill="#0c150a" stroke="#56d364" />
+    <text x="120.5" y="150" font-family="monospace" font-size="11" fill="#56d364" text-anchor="middle">Pipeline</text>
+    <rect x="161" y="136" width="75" height="20" rx="10" fill="#0a141a" stroke="#a371f7" />
+    <text x="198.5" y="150" font-family="monospace" font-size="11" fill="#a371f7" text-anchor="middle">LangGraph</text>
+    <rect x="244" y="136" width="40" height="20" rx="10" fill="#1a110a" stroke="#ff9e64" />
+    <text x="264" y="150" font-family="monospace" font-size="11" fill="#ff9e64" text-anchor="middle">MCP</text>
+    <rect x="292" y="136" width="60" height="20" rx="10" fill="#0a1a1a" stroke="#05998b" />
+    <text x="322" y="150" font-family="monospace" font-size="11" fill="#05998b" text-anchor="middle">FastAPI</text>
+    <rect x="360" y="136" width="60" height="20" rx="10" fill="#0a141a" stroke="#4a86e8" />
+    <text x="390" y="150" font-family="monospace" font-size="11" fill="#4a86e8" text-anchor="middle">Gemini</text>
+  </g>
+
+  <!-- 9. Horizontal divider line #21262d -->
+  <line x1="20" y1="166" x2="460" y2="166" stroke="#21262d" stroke-width="1"/>
+
+  <!-- 10. KEY ATTRIBUTES -->
+  <text x="20" y="186" font-family="monospace" font-size="11" fill="url(#accent)">▸</text>
+  <text x="32" y="186" font-family="monospace" font-size="11" fill="#8b949e">Source</text>
+  <text x="110" y="186" font-family="'Segoe UI', sans-serif" font-size="11" fill="#c9d1d9">Workday ERP (Vertical) &amp; MISA SME (Horizontal)</text>
+  <text x="20" y="204" font-family="monospace" font-size="11" fill="url(#accent)">▸</text>
+  <text x="32" y="204" font-family="monospace" font-size="11" fill="#8b949e">AI Models</text>
+  <text x="110" y="204" font-family="'Segoe UI', sans-serif" font-size="11" fill="#c9d1d9">Gemini 1.5 Pro, Qwen 2.5 (Colab), GPT-4o Fallback</text>
+  <text x="20" y="222" font-family="monospace" font-size="11" fill="url(#accent)">▸</text>
+  <text x="32" y="222" font-family="monospace" font-size="11" fill="#8b949e">Pipeline</text>
+  <text x="110" y="222" font-family="'Segoe UI', sans-serif" font-size="11" fill="#c9d1d9">Ingest → Rule Engine → AI Reasoning → Export</text>
+  <text x="20" y="240" font-family="monospace" font-size="11" fill="url(#accent)">▸</text>
+  <text x="32" y="240" font-family="monospace" font-size="11" fill="#8b949e">Test Suite</text>
+  <text x="110" y="240" font-family="'Segoe UI', sans-serif" font-size="11" fill="#c9d1d9">Pytest Logic Audit &amp; A/B LLM Benchmark Dashboard</text>
+  <text x="20" y="258" font-family="monospace" font-size="11" fill="url(#accent)">▸</text>
+  <text x="32" y="258" font-family="monospace" font-size="11" fill="#8b949e">Results</text>
+  <text x="110" y="258" font-family="'Segoe UI', sans-serif" font-size="11" fill="#c9d1d9">96.0% Task Success Rate &amp; 65x Efficiency Gain</text>
+
+  <!-- 11. FOOTER -->
+  <circle cx="20" cy="276" r="5" fill="#3572A5"/>
+  <text x="30" y="280" font-family="'Segoe UI', sans-serif" font-size="11" fill="#8b949e">Python 100%</text>
+</svg>

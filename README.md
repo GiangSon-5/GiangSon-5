@@ -51,6 +51,37 @@ I'm a **final-year** university student with a strong passion for **Data Science
 
 ---
 
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🏆 <a href="https://github.com/GiangSon-5/intelligent-sports-news-assistant">Intelligent Sports News Assistant</a></h3>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Pipeline-FF6F00?style=flat-square&logo=openai&logoColor=white)
+
+> An AI-powered pipeline automating weekly sports news aggregation & summarization from **VnExpress, Thanh Niên, Tuổi Trẻ** using Scrapy.
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🏆 <a href="https://github.com/GiangSon-5/mcp-misa-payroll-agent">MCP MISA Payroll Agent</a></h3>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+
+> An AI Agentic Portal automating **MISA Accounting** reclassification and **HR Payroll OT** calculations using LangGraph & MCP.
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 📈 My GitHub Stats
 
 <p align="center">

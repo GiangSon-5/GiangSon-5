@@ -56,7 +56,7 @@ I'm a **final-year** university student with a strong passion for **Data Science
 <p align="center">
   <img src="https://github-readme-streak-stats-three-tan.vercel.app/?user=GiangSon-5&theme=aura&hide_border=false" alt="GitHub Streak Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiangSon-5&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-beta-self-58.vercel.app/api/top-langs/?username=GiangSon-5&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="center">

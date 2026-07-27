@@ -96,4 +96,8 @@ I'm a **final-year** university student with a strong passion for **Data Science
   <a href="https://github.com/GiangSon-5/mcp-misa-payroll-agent">
     <img src="https://raw.githubusercontent.com/GiangSon-5/GiangSon-5/main/assets/mcp-misa-payroll-agent.svg" width="49%" alt="MCP MISA Payroll Agent" />
   </a>
+  <a href="https://github.com/GiangSon-5/cellphones-dwh-etl-pipeline">
+    <img src="https://raw.githubusercontent.com/GiangSon-5/GiangSon-5/main/assets/cellphones_test.svg" width="49%" alt="Cellphones DWH ETL Pipeline" />
+  </a>
 </p>
+
